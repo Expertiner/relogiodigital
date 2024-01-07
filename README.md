@@ -15,17 +15,16 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-![](./images/website-first-version.png)
+![](./img/website-first-version.png)
 
 ### Links
 
-- Live Site URL: [https://expertiner.github.io/css_fundamentos/](https://expertiner.github.io/css_fundamentos/)
+- Live Site URL: [https://expertiner.github.io/relogiodigital/](https://expertiner.github.io/relogiodigital/)
 
 
 ## My process
@@ -33,13 +32,8 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- CSS
+- Javascript
 
 ### What I learned
 
@@ -59,7 +53,7 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
 ### Continued development
 
 - Concepts I'm still not completely comfortable with:
-  - 
+  - Javascript
 
 - Techniques I want to refine and perfect:
   - The CSS property `box-shadow`
@@ -70,29 +64,12 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
 
   - [CSS 8 Digit Hex Colors](https://www.quackit.com/css/color/values/css_hex_color_notation_8_digits.cfm#:~:text=Eight%2Ddigit%20hex%20notation%20consists,alpha%20chanel%20of%20the%20color.&text=The%20RR%20represents%20the%20red,GG%20represents%20the%20green%20component.) - This taught me that hex color codes can have 8 digits.
 
-<!--
-- [Example resource 1](https://www.markdownguide.org/basic-syntax/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
-
 ## Author
 
 - GitHub - [Andrey Alves](https://github.com/Expertiner)
 
-- Frontend Mentor - [@expertiner](https://www.frontendmentor.io/profile/Expertiner)
+- Linkedin - [Andrey Alves](https://www.linkedin.com/in/andrey-alves-da-silva-02312099/)
 
 - YouTube - [@andreyzices](https://www.youtube.com/channel/UCirtLAIX4JdTRy_Za6GKcwg)
 
-<!--
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
--->
-
-<!-- ## Acknowledgments -->
-
-<!-- Got some inspiration from the Frontend Mentor Discord's Server. -->
-
-<!--
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
--->
+- Frontend Mentor - [@expertiner](https://www.frontendmentor.io/profile/Expertiner)
